@@ -1,0 +1,34 @@
+[2019/6/20 21:24:21] [1] -----------------------------GameSetting Start ---------------------------------------------------------
+[2019/6/20 21:24:21] [1] Version : 2.6.42.5201
+[2019/6/20 21:24:22] [4] --------InitGameZone Begin
+[2019/6/20 21:24:22] [4] --------InitGameZone End
+[2019/6/20 21:24:23] [5] Config Init Begin
+[2019/6/20 21:24:23] [5]  lightType = APIWraper.GetLedGuiType lightType = 0
+[2019/6/20 21:24:23] [5]  IsNoteBook = APIWraper.IsNoteBook IsNoteBook = True
+[2019/6/20 21:24:23] [5]  IsNoteBook = APIWraper.IsNoteBook IsNoteBook = True
+[2019/6/20 21:24:23] [5]  uint touchpad = APIWraper.IsSupportForbiddenTouchPad touchpad = 1
+[2019/6/20 21:24:23] [5]  GetOCSupportType() : 0
+[2019/6/20 21:24:23] [5]  IsDolbyInstalled = APIWraper.IsDolbyInstalled IsDolbyInstalled = True
+[2019/6/20 21:24:23] [5]  IsSupportCueLed = APIWraper.IsSupportCueLed IsSupportCueLed = False
+[2019/6/20 21:24:23] [5]  IsNoteBook = APIWraper.IsNoteBook IsNoteBook = True
+[2019/6/20 21:24:23] [5]  IsSupportFan = APIWraper.IsSupportFan IsSupportFan = True
+[2019/6/20 21:24:23] [5] GetPowerChargeMode error--->
+[2019/6/20 21:24:23] [5]  IsNewGraphicCardInZ370 = APIWraper.IsNewGraphicCardInZ370 IsNewGraphicCardInZ370 = False
+[2019/6/20 21:24:23] [5] IsSupportMemoryOC : False
+[2019/6/20 21:24:23] [5] IsSupportMagicYKey :False
+[2019/6/20 21:24:23] [5] IsSupportGSync :False
+[2019/6/20 21:24:23] [5] Config Init End
+[2019/6/20 21:24:23] [1]  GetOCSupportType() : 0
+[2019/6/20 21:24:23] [5] Begin OnUIChange
+[2019/6/20 21:24:23] [1]  IsNoteBook = APIWraper.IsNoteBook IsNoteBook = True
+[2019/6/20 21:24:23] [1] FeatureConfig.Instance().IsSupportForbiddenTouchPad : True
+[2019/6/20 21:24:23] [1] FeatureConfig.Instance().IsSupportDolby : True
+[2019/6/20 21:24:23] [1]  IsDolbyInstalled = APIWraper.IsDolbyInstalled IsDolbyInstalled = True
+[2019/6/20 21:24:23] [1]  IsSupportDolby : True
+[2019/6/20 21:24:23] [1]  IsDolbyInstalled = APIWraper.IsDolbyInstalled IsDolbyInstalled = True
+[2019/6/20 21:24:23] [1]  IsNoteBook = APIWraper.IsNoteBook IsNoteBook = True
+[2019/6/20 21:24:23] [5] end OnUIChange
+[2019/6/20 21:24:23] [5] GetGSyncStatus :False
+[2019/6/20 21:24:23] [5] OnUIChange
+[2019/6/20 21:24:23] [3]  IsNoteBook = APIWraper.IsNoteBook IsNoteBook = True
+[2019/6/20 21:24:23] [3] GetFanCoolingStatus :0 return : True
